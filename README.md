@@ -1,6 +1,6 @@
 ![Machine Learning: il corso pratico](https://raw.githubusercontent.com/ProfAI/ml00/master/res/banner.jpg)
 
-### Fai un passo verso il futuro: AI, Machine Learning e Data Science.
+## Fai un passo verso il futuro: AI, Machine Learning e Data Science.
 
 Sai cosa accomuna il successo dei più grandi colossi del web come Google, Amazon e Facebook ? L'utilizzo che hanno fatto del machine learning.
 
@@ -13,17 +13,17 @@ Il machine learning non è una novità, ma è finito sotto la luce dei riflettor
 
 Questi due fattori, uniti alle sue innumerevoli applicazioni commerciali, stanno contribuendo alla crescita vertiginosa del machine learning che sta trascinando con se l'intero campo dell'intelligenza artificiale.
 
-### Un approccio pratico al machine learning
+## Un approccio pratico al machine learning
 
 In questo corso pratico imparerai come funziona il machine learning e come utilizzarlo in maniera pratica, utilizzando il linguaggio Python e librerie popolari come Scikit-learn, Pandas e PyPlot.
 
-##### Vuoi dare una svolta alla tua carriera ?
+#### Vuoi dare una svolta alla tua carriera ?
 
 L'esperto di machine learning è la professione del futuro e Linkedin lo conferma; secondo una loro recente ricerca il Machine Learning Engineer è la nuova figura più ricercata dalle aziende con un tasso di crescita di quasi il 1000% negli ultimi 5 anni ed è subito seguito dal Data Scientist.
 
 Al termine di questo corso avrai acquisito l'esperienza pratica e le intuizioni teoriche necessarie per lanciare la tua carriera in entrambe queste due nuove professioni.
 
-##### Vuoi fondare la tua startup nel campo dell'AI ?
+#### Vuoi fondare la tua startup nel campo dell'AI ?
 
 Il valore totale del mercato dell'intelligenza artificiale nel 2016 era di 1.3 miliardi di dollari; secondo una ricerca di un'importante società di analisi americana il suo valore per il 2025 potrebbe superare il 60 miliardi.
 
@@ -31,7 +31,7 @@ L'AI è la next big thing e il machine learning ne è il cuore pulsante.
 
 Seguendo questo corso otterrai una visione generale del machine learning e come questo si lega all'intelligenza artificiale e potrai utilizzare queste tue nuove conoscenze per dare vita al tuo business.
 
-### I contenuti del corso
+## I contenuti del corso
 
 Inizieremo il corso esplorando in breve il vasto campo dell'intelligenza artificiale, come il machine learning si inserisce al suo interno e come quest'ultimo è legato al data science. Costruiremo insieme il tuo ambiente di lavoro, in base alle tue personali esigenze e preferenze.
 
