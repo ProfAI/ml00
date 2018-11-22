@@ -3,7 +3,7 @@ import numpy as np
 from matplotlib.colors import ListedColormap
 
 
-def show_boundo(model,X,Y,labels=["Classe 0","Classe 1"], figsize=(12,10)):
+def plot_boundary(model,X,Y,labels=["Classe 0","Classe 1"], figsize=(12,10)):
 
     plt.figure(figsize=figsize)
 
@@ -27,7 +27,7 @@ def show_boundo(model,X,Y,labels=["Classe 0","Classe 1"], figsize=(12,10)):
     plt.legend()
 
 
-def plot_boundary(X,Y,model=None,classes=None, figsize=(12,10)):
+def plot_boundary_proba(X,Y,model=None,classes=None, figsize=(12,10)):
 
     plt.figure(figsize=figsize)
 
