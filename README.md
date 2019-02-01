@@ -79,6 +79,3 @@ Affronteremo il problema del clustering, ovvero come creare automaticamente dei 
 - DBSCAN
 
 Termineremo il corso con alcuni consigli su come proseguire, raccomandazioni su libri da leggere per approfondire la parte teorica e competizioni Kaggle a cui partecipare per affinare le skills pratiche.
-
-## ISCRIVITI SUBITO
-# [Il corso è in offerta lancio a  € 9.99 per i primi 100 iscritti](http://hyperurl.co/ml00git)
