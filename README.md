@@ -1,4 +1,5 @@
 ![Machine Learning: il corso pratico](https://raw.githubusercontent.com/ProfAI/ml00/master/res/banner.jpg)
+## [Machine Learning con Python: il Corso Pratico](https://www.udemy.com/machine-learning-pratico/?couponCode=PROFAI_GITHUB)
 
 ## Fai un passo verso il futuro: AI, Machine Learning e Data Science.
 
@@ -79,3 +80,6 @@ Affronteremo il problema del clustering, ovvero come creare automaticamente dei 
 - DBSCAN
 
 Termineremo il corso con alcuni consigli su come proseguire, raccomandazioni su libri da leggere per approfondire la parte teorica e competizioni Kaggle a cui partecipare per affinare le skills pratiche.
+
+### [IL CORSO COMPLETO E' DISPONIBILE SU UDEMY A SOLI 9.99 € CLICCANDO SU QUESTO LINK](https://www.udemy.com/machine-learning-pratico/?couponCode=PROFAI_GITHUB)
+
